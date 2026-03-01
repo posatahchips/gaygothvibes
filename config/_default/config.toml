@@ -49,3 +49,7 @@ pluralizeListTitles = false
             enabled = false
             header = "contact"
             action = ""
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
