@@ -1,0 +1,32 @@
+{{ define "main" }}
+    <header>
+            {{- if .Params.image }}
+        <span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
+    {{ end }}
+      <h2 style="text-align:Center;">{{ .Title }}</h2>
+        <p style="text-align:center;">{{ .Description }}</p>
+    </header>
+
+<!-- <ul class="tags">
+            <li>        {{ if .Site.Params.show_post_dates | default true }}
+            {{- with .Date }} {{ . | time.Format ":date_medium" }} {{ end }}
+        {{ end }}</li>
+
+            <li>in:</li>
+    {{- with .GetTerms "tags" }}
+        {{- range . -}}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- end }}
+    {{- end }}
+</ul>
+
+
+<p></p> -->
+
+<p style="text-align: center;">
+
+    {{- .Content }}
+
+</p>
+
+{{ end }}

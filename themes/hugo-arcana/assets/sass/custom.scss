@@ -1,0 +1,148 @@
+/* This file intentionally left blank.
+ * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
+ */
+
+ 
+/* making the card closer to the header */
+
+    .card-container {
+        padding: 0em;
+        margin: 0em 4em 0em 4em;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 2em;
+        flex-wrap: wrap;
+    }
+
+/* markdown image manipulation */
+
+img[src*='#left'] {
+    width: 50%;
+    float: left;
+    margin: 0 0 1em 0em;
+}
+img[src*='#right'] {
+    width: 50%;
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+
+p {
+    clear:both;
+}
+
+/*  making the featured images smaller */
+
+    .image {
+            &.featured {
+                display: block;
+                margin: 1em 0 2em 0;
+
+                img {
+                    object-fit: cover;
+                    display: block;
+                    width: 100%;
+                    height: 350px;
+                    }
+            }
+        }
+
+
+/* adjust preivew images */        
+    .image {
+        &.left {
+            display: block;
+            float: left;
+            margin: 0 2em 2em 0;
+            position: relative;
+            top: 0.25em;
+
+            img {
+                display: block;
+                width: 100%;
+            }
+        }
+    }
+
+    .box {
+        &.highlight {
+            padding-left: calc(0em + 30px);
+                }
+
+                &.post {
+                    .inner {
+                        margin-left:0em;
+                        margin-right:2em;
+                        width: 50%;
+                        float: right;
+                        margin-top: 0em;
+                    }
+                }
+            }
+
+
+/* CTA */
+
+    #cta {
+        text-align: center;
+        padding: 3.5em 0;
+
+        header {
+            h2 {
+                display: inline-block;
+                vertical-align: middle;
+                margin: 0;
+            }
+
+            .button {
+                background: _palette(obscure, bg);
+                color: _palette(fg);
+                vertical-align: middle;
+                margin-left: 1em;
+            }
+        }
+    }
+
+    .wrapper {
+
+        &.style3 {
+            background-color: _palette(bg);
+            @include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15))', 'url("images/bg01.png")'));
+            color: _palette(accent, fg);
+
+            .button {
+                background: _palette(accent, fg);
+                color: _palette(fg);
+
+                &:hover {
+                    color: _palette(accent, bg) !important;
+                }
+            }
+        }
+    }
+
+
+    /* square blog images */
+
+        .image {
+
+        &.blog {
+            display: block;
+            float: left;
+            margin: 0 2em 2em 0;
+            position: relative;
+            top: 0.25em;
+
+            img {
+                display: block;
+                width: 100%;
+                aspect-ratio:1/1;
+                object-fit:cover;
+            }
+        }
+        }

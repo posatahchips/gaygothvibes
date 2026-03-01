@@ -1,0 +1,58 @@
+<section class="col-6 col-12-narrower">
+    <div class="box post">
+        {{- if .Params.image }}
+        <a href="{{ .RelPermalink }}" class="image blog"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></a>
+        {{ end }}
+        <div class="inner">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+            <p>
+                {{ with .Description }}
+                    {{- . }}
+                {{- else }}
+                    {{- .Summary }}
+                {{- end }}
+            </p>
+
+            <p class="tags">
+                {{ if .Site.Params.show_post_dates | default true }}
+                {{- with .Date }}<time>{{ . | time.Format ":date_medium" }}</time>{{ end }}
+            {{ end }}
+
+            in
+
+            {{ with .GetTerms "category" }}
+                {{ range . }}
+                    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                {{ end }}
+            {{ end }}
+</p>
+
+
+<!--                        <p class="tags">
+                {{ if .Site.Params.show_post_dates | default true }}
+                {{- with .Date }}<time>{{ . | time.Format ":date_medium" }}</time>{{ end }}
+            {{ end }}
+                
+                
+                in:
+                {{- with .GetTerms "tags" }}
+                    {{- range . -}}{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+                        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                    {{- end }}.
+                {{- end }}
+
+
+
+
+            </p> -->
+
+
+
+<!-- {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} -->
+
+
+
+        </div>
+    </div>
+</section>
