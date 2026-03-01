@@ -7,7 +7,7 @@ slug: 'cover-what-breaks-and-what-doesnt'
 date: '2021-02-12'
 
 description: a cover of a lauren o'connell song
-image: /images/pymoob/cover_dontcryout.png
+image: images/pymoob/cover_dontcryout.png
 
 category:
  - people you meet outside of bars

@@ -7,7 +7,7 @@ slug: 'extinction-live'
 date: '2023-06-25'
 
 description: a live version of “extinction”, a break-up song about craving exaggerated external circumstances that are completely out of your control to bypass the vulnerability of having wants or needs & how i guess maybe it might theoretically be possible to let your knowledge of what your priorities would be at the end of the world dictate how you live in it now
-image: /images/extinction-live.png
+image: images/extinction-live.png
 
 category:
  - people you meet outside of bars

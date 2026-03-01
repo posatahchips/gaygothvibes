@@ -7,7 +7,7 @@ slug: 'cover-steal-smoked-fish'
 date: '2018-11-12'
 
 description: a cover of a mountain goats song
-image: /images/pymoob/cover_stealsmokedfish.png
+image: images/pymoob/cover_stealsmokedfish.png
 
 category:
  - people you meet outside of bars

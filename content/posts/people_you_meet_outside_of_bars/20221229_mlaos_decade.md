@@ -7,7 +7,7 @@ slug: 'mlaos-anniversary'
 date: '2022-12-29'
 
 description: which is unfathomable. look at that greasy fuck on the album cover. they are severely chronically & acutely going through it. im taking the opportunity of the big anniversary to be self-indulgent & talk abt the songs in a way i havent before.
-image: /images/pymoob/mloas.jpg
+image: images/pymoob/mloas.jpg
 
 category:
  - people you meet outside of bars

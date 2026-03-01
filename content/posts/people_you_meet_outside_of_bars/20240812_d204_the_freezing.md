@@ -7,7 +7,7 @@ slug: 'd204-the-freezing'
 date: '2024-08-12'
 
 description: the ninth roll of d204, a project where i let dice tell me which of my songs to record, a vlog digging into the deviantart archives to figure out when this song was written, & talking thru some other recordings of this song.
-image: /images/pymoob/d204_09.png
+image: images/pymoob/d204_09.png
 
 category:
  - people you meet outside of bars

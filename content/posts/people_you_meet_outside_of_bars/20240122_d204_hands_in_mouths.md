@@ -7,7 +7,7 @@ slug: 'd204-hands-in-mouths'
 date: '2024-01-22'
 
 description: the second roll of d204, a project where i let dice tell me which of my songs to record.
-image: /images/pymoob/d204_02.png
+image: images/pymoob/d204_02.png
 
 category:
  - people you meet outside of bars

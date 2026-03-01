@@ -7,7 +7,7 @@ slug: 'after-all-live'
 date: '2021-03-27'
 
 description: a 
-image: /images/pymoob/sleep_alone.png
+image: images/pymoob/sleep_alone.png
 
 category:
  - people you meet outside of bars

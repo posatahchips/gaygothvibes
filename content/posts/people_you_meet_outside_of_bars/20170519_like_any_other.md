@@ -7,7 +7,7 @@ slug: 'like-any-other'
 date: '2017-05-19'
 
 description: the first ever recording of “like any other” & a silly blooper from the recording process.
-image: /images/pymoob/likeanyother.png
+image: images/pymoob/likeanyother.png
 
 category:
  - people you meet outside of bars

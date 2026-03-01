@@ -7,7 +7,7 @@ slug: 'cover-dont-cry-out'
 date: '2013-06-04'
 
 description: a cover of a moutain goats song
-image: /images/pymoob/cover_yourbelgianthings.png
+image: images/pymoob/cover_yourbelgianthings.png
 
 category:
  - people you meet outside of bars

@@ -7,7 +7,7 @@ slug: 'lyric-video-hello'
 date: '2025-01-04'
 
 description: " "
-image: /images/pymoob/hello.jpg
+image: images/pymoob/hello.jpg
 image_alt: a disposable camera style picture of a projection of text messages against a wall over a bed
 
 category:

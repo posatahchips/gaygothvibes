@@ -7,7 +7,7 @@ slug: 'cover-simeons-dilemma'
 date: '2018-03-12'
 
 description: a cover of a WHY? song
-image: /images/pymoob/cover_simeonsdilemma.png
+image: images/pymoob/cover_simeonsdilemma.png
 
 category:
  - people you meet outside of bars

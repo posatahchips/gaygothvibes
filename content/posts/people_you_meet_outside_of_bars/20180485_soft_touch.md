@@ -7,7 +7,7 @@ slug: 'earned'
 date: '2018-04-15'
 
 description: one of the songs from an EP abt a ghost who is in love with the woman whose house she is haunting.
-image: /images/pymoob/softtouch.png
+image: images/pymoob/softtouch.png
 
 category:
  - people you meet outside of bars

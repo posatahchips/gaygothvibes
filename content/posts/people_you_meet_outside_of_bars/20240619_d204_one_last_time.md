@@ -7,7 +7,7 @@ slug: 'd204-one-last-time'
 date: '2024-06-19'
 
 description: the fifth roll of d204, a project where i let dice tell me which of my songs to record, & a vlog abt abt sobriety, isolation, & the weirdness of writing + performing songs abt mental health crises from inside of them.
-image: /images/pymoob/d204_05.png
+image: images/pymoob/d204_05.png
 
 category:
  - people you meet outside of bars

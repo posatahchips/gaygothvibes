@@ -7,7 +7,7 @@ slug: 'd204-a-poet-and-an-alcoholic-in-times-of-war'
 date: '2024-05-14'
 
 description: the third roll of d204, a project where i let dice tell me which of my songs to record, a vlog with some initial thoughts about the song i rolled, & a version of this particular song i posted on youtube as a teenager.
-image: /images/pymoob/d204_03.png
+image: images/pymoob/d204_03.png
 
 category:
  - people you meet outside of bars

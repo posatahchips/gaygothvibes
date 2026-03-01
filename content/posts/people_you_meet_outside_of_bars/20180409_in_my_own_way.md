@@ -7,7 +7,7 @@ slug: 'cover-in-my-own-way'
 date: '2018-04-09'
 
 description: a cover of a song from shock treatment
-image: /images/pymoob/cover_inmyownway.png
+image: images/pymoob/cover_inmyownway.png
 
 category:
  - people you meet outside of bars

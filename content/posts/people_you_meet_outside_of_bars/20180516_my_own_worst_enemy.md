@@ -7,7 +7,7 @@ slug: 'cover-my-own-worse-enemy'
 date: '2018-05-16'
 
 description: a cover of a lit song
-image: /images/pymoob/cover_myownworstenemy.png
+image: images/pymoob/cover_myownworstenemy.png
 
 category:
  - people you meet outside of bars

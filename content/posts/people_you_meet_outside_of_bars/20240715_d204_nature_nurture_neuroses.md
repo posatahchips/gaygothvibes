@@ -7,7 +7,7 @@ slug: 'd204-nature-nurture-neouroses'
 date: '2024-07-15'
 
 description: the seventh roll of d204, a project where i let dice tell me which of my songs to record & a vlog abt revisiting the artistic viciousness of a teenager who is Going Thru It & healing from difficult parents so you don’t become them.
-image: /images/pymoob/d204_07.png
+image: images/pymoob/d204_07.png
 
 category:
  - people you meet outside of bars

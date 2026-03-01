@@ -7,7 +7,7 @@ slug: 'cover-i-want-to-be-the-boy'
 date: '2023-04-08'
 
 description: ruminating on a 2012 cover of a white stripes song
-image: /images/pymoob/cover_iwanttobetheboy.png
+image: images/pymoob/cover_iwanttobetheboy.png
 
 category:
  - people you meet outside of bars

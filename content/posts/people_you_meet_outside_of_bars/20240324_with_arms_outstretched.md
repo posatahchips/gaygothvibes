@@ -7,7 +7,7 @@ slug: 'cover-with-arms-outstretched'
 date: '2018-02-12'
 
 description: a cover of a rilo kiley song
-image: /images/pymoob/cover_witharmsoutstretched.png
+image: images/pymoob/cover_witharmsoutstretched.png
 
 category:
  - people you meet outside of bars

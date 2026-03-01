@@ -7,7 +7,7 @@ slug: 'cover-left-and-leaving'
 date: '2017-03-09'
 
 description: a cover of a weakerthans song
-image: /images/pymoob/cover_leftandleaving.png
+image: images/pymoob/cover_leftandleaving.png
 
 category:
  - people you meet outside of bars

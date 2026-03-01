@@ -7,7 +7,7 @@ slug: 'inside'
 date: '2025-09-19'
 
 description: " "
-image: /images/pymoob/inside.png
+image: images/pymoob/inside.png
 image_alt: a macbook with a webcam feed of someone looking to the side
 
 category:

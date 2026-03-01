@@ -7,7 +7,7 @@ slug: 'its-really-only'
 date: '2024-12-31'
 
 description: happy new year. here are three songs. two are new.
-image: /images/pymoob/itsreallyonly.jpg
+image: images/pymoob/itsreallyonly.jpg
 image_alt: 
 
 category:

@@ -7,7 +7,7 @@ slug: 'after-all-live'
 date: '2019-03-05'
 
 description: a simple raw scream of a song.
-image: /images/pymoob/its_not_your_fault_you_ruined_my_life.png
+image: images/pymoob/its_not_your_fault_you_ruined_my_life.png
 
 category:
  - people you meet outside of bars

@@ -7,7 +7,7 @@ slug: 'my-exs-exes'
 date: '2023-07-03'
 
 description: a thirteen year anniversary tribute to a song i wrote called “my ex’s exes” & a link to the version of it i posted in 2010.
-image: /images/pymoob/myexsexes.png
+image: images/pymoob/myexsexes.png
 
 category:
  - people you meet outside of bars

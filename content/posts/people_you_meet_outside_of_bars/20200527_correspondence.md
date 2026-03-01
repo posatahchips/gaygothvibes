@@ -7,7 +7,7 @@ slug: 'correspondance'
 date: '2020-05-27'
 
 description: a song about the possibility of a crush being reciprocated, written in like january/february 2020 & recorded in may 2020.
-image: /images/pymoob/after_all_live.png
+image: images/pymoob/after_all_live.png
 
 category:
  - people you meet outside of bars

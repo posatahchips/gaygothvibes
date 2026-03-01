@@ -7,7 +7,7 @@ slug: 'cover-steal-my-sunshine'
 date: '2023-06-19'
 
 description: a cover of a len song
-image: /images/pymoob/cover_stealmysunshine.png
+image: images/pymoob/cover_stealmysunshine.png
 
 category:
  - people you meet outside of bars

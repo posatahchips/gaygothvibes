@@ -7,7 +7,7 @@ slug: 'd204-september-1st-early'
 date: '2024-01-15'
 
 description: the first roll of d204, a project where i let dice tell me which of my songs to record. this one is “september 1st, early”, a song off of the album i wrote about my estranged mother dying. this blog is also about that.
-image: /images/pymoob/d204_01.png
+image: images/pymoob/d204_01.png
 
 category:
  - people you meet outside of bars

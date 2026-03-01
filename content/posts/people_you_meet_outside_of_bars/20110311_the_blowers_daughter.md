@@ -7,7 +7,7 @@ slug: 'cover-the-blowers-daughter'
 date: '2011-03-11'
 
 description: a cover of a damien rice song
-image: /images/pymoob/cover_theblowersdaughter.png
+image: images/pymoob/cover_theblowersdaughter.png
 
 category:
  - people you meet outside of bars
