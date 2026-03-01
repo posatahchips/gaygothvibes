@@ -22,29 +22,16 @@ pluralizeListTitles = false
     show_post_dates = true
 
     [[params.social]]
-        title = "Bluesky"
-        icon = "fa-twitter"
-        url = "#"
+        title = "bluesky"
+        icon = "fa-bluesky"
+        url = "https://bsky.app/profile/posatahchips.gaygothvibes.online"
     [[params.social]]
-        title = "Facebook"
-        icon = "fa-facebook-f"
-        url = "#"
-    [[params.social]]
-        title = "GitHub"
-        icon = "fa-github"
-        url = "#"
-    [[params.social]]
-        title = "LinkedIn"
-        icon = "fa-linkedin-in"
-        url = "#"
-    [[params.social]]
-        title = "Creative Commons"
-        icon = "fa-creative-commons"
-        url = "https://creativecommons.org/"
+        title = "instagram"
+        icon = "fa-instagram"
+        url = "https://www.instagram.com/posatahchips/"
 
 
     [params.footer]
-
         [params.footer.contact_form]
             enabled = false
             header = "contact"
