@@ -2,7 +2,7 @@
 title: "podcasts"
 description: ""
 menu: main
-weight: 50
+weight: 20
 image: 
 image_alt: ""
 

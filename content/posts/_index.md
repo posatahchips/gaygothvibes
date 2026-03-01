@@ -1,5 +1,5 @@
 ---
 title: all posts
 menu: main
-weight: 100
+weight: 50
 ---

@@ -4,7 +4,7 @@ draft: false
 title: "contact"
 description: ""
 menu: main
-weight: 60
+weight: 50
 # image: images/banner.jpg
 # image_alt: "Hello!"
 

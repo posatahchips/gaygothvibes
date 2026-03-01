@@ -2,7 +2,7 @@
 title: "ttrpgs"
 description: ""
 menu: main
-weight: 40
+weight: 10
 # image: images/ttrpgs/wicked_glitch_icon.jpg
 # image_alt: "Hello!"
 sidebar_right: sidebar_ttrpgs
