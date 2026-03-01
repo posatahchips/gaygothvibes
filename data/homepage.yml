@@ -1,0 +1,44 @@
+banner:
+  enable: false
+  image: "/content/images/selfie1.jpg"
+  contents: "**hi i'm satah,** _a lesbian alien cyborg type in ontario canada._"
+
+items:
+
+#  - type: heading
+#    heading: hi i'm satah, _a lesbian cyborg type in ontario canada_.
+#    contents: i make music & other sounds. i make & edit tabletop role-playing games. i make a weird actual play podcast called folio.
+
+  - type: card
+    heading: hi i'm satah, _a lesbian cyborg type in ontario canada_.
+#    contents: need an editor for your ttrpg? need an editor for your actual play podcast or stream VODs? need a writer on your sci-fi, cyberpunk, or horror game? need an automated character keeper built in a spreadsheet?
+    contents: i make music & other sounds. i make & edit tabletop role-playing games. i make a weird actual play podcast called folio.
+    image: /images/selfie1.jpg
+    image_alt: "a greyscale picture of me, a white femme with shoulder-length curly dark hair, winged eyeliner, & black lipstick"
+
+  - type: cta
+    contents: _you can hire me for stuff if you_
+    button:
+      contents: contact me.
+      url: "/contact/"
+
+#  - type: highlights
+    items_per_row: 3
+    items:
+    - title: ttrpgs
+      icon: fa-book
+      content: >
+        i edit, write for, consult on, & sometimes make games. i'm also the operations manager at haunted table.
+    - title: folio
+      icon: fa-headphones
+      content: >
+        a weird actual play podcast where i edit together multiple people play the same solo game.
+    - title: music & other sounds
+      icon: fa-music
+      content: >
+        my
+   
+  - type: posts
+    heading: recent posts
+    content_type: posts
+    max: 6

@@ -1,0 +1,12 @@
+
+[[main]]
+	parent = "music"
+	name = "people you meet outside of bars"
+	url = "/music/people-you-meet-outside-of-bars"
+	weight = 31
+
+[[main]]
+	parent = "music"
+	name = "piloting the animal"
+	url = "/music/piloting-the-animal"
+	weight = 32

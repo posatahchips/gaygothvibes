@@ -1,0 +1,27 @@
+---
+draft: false
+layout: post
+
+title: 'A CHECK ENGINE LIGHT'
+slug: 'a-check-engine-light'
+date: '2023-01-14'
+
+description: "XPERIMENTAL NONSENSE&FEELINGS RECORDEDLIVE2TAPE"
+image: images/pta/acheckenginelight.jpg
+
+category:
+ - piloting the animal
+
+tags:
+ - SONEVDANOV
+ - HEAR
+---
+
+{{< bandcamp 4247367092 >}}
+
+THE ALBUM COLLECTION OF [#SONEVDANOV](/tags/sonevdanov),
+A PROJECT WHERE I TRIED 2 PRODUCE 5+ MINS OF SOUNDS EVERY DAY
+4 ABT 2 WEEKS B4 REALISING THE FULFILLMENT 2 EFFORT RATIO WASNT BALANCED
+& FOUND THE GRACE 2 B OK W STOPPING
+(+ A SPONTANEOUS VOX LOOP RECORDED 2 MY PHONE A LIL WHILE BEFORE
+JUST 2 BRING IT 2 LUCKY 13)
