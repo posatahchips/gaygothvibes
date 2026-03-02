@@ -1,5 +1,7 @@
 ---
 title: "music"
+layout: single
+
 description: ""
 menu: main
 weight: 30
