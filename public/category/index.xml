@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>category on gay goth vibes dot online</title>
-    <link>http://localhost:1313/category/</link>
+    <link>gaygothvibes.online/category/</link>
     <description>Recent content in category on gay goth vibes dot online</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© Untitled. All rights reserved</copyright>
+    <copyright>© satah</copyright>
     <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/category/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="gaygothvibes.online/category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ttrpgs</title>
-      <link>http://localhost:1313/category/ttrpgs/</link>
+      <link>gaygothvibes.online/category/ttrpgs/</link>
       <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/category/ttrpgs/</guid>
+      <guid>gaygothvibes.online/category/ttrpgs/</guid>
       <description></description>
     </item>
     <item>
       <title>people you meet outside of bars</title>
-      <link>http://localhost:1313/category/people-you-meet-outside-of-bars/</link>
+      <link>gaygothvibes.online/category/people-you-meet-outside-of-bars/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/category/people-you-meet-outside-of-bars/</guid>
+      <guid>gaygothvibes.online/category/people-you-meet-outside-of-bars/</guid>
       <description></description>
     </item>
     <item>
       <title>piloting the animal</title>
-      <link>http://localhost:1313/category/piloting-the-animal/</link>
+      <link>gaygothvibes.online/category/piloting-the-animal/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/category/piloting-the-animal/</guid>
+      <guid>gaygothvibes.online/category/piloting-the-animal/</guid>
       <description></description>
     </item>
   </channel>

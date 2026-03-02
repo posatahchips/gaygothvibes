@@ -1,8 +1,8 @@
-baseURL = "https://example.org/"
+baseURL = "gaygothvibes.online"
 languageCode = "en-us"
 title = "gay goth vibes dot online"
 theme = "hugo-arcana"
-copyright = "© Untitled. All rights reserved"
+copyright = "© satah"
 
 defaultContentLanguage = "en"
 
@@ -18,7 +18,7 @@ pluralizeListTitles = false
 
 [params]
     description = "gay goth vibes dot online."
-    images = ['images/metaimage.jpg']
+    images = ['images/selfie1.jpg']
     show_post_dates = true
 
     [[params.social]]
@@ -40,3 +40,10 @@ pluralizeListTitles = false
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html']

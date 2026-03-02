@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rpm on gay goth vibes dot online</title>
-    <link>http://localhost:1313/tags/rpm/</link>
+    <link>//localhost:1313/tags/rpm/</link>
     <description>Recent content in rpm on gay goth vibes dot online</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© Untitled. All rights reserved</copyright>
+    <copyright>© satah</copyright>
     <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rpm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/rpm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>my ruling emotion is fear</title>
-      <link>http://localhost:1313/posts/piloting_the_animal/my-ruling-emotion-is-fear/</link>
+      <link>//localhost:1313/posts/piloting_the_animal/my-ruling-emotion-is-fear/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/piloting_the_animal/my-ruling-emotion-is-fear/</guid>
+      <guid>//localhost:1313/posts/piloting_the_animal/my-ruling-emotion-is-fear/</guid>
       <description>&lt;div class=&#34;embed video-player&#34;&gt;&#xA;&#xA;&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3708219995/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/&#34; height=&#34;240&#34; width=&#34;320&#34; seamless=&#34;&#34;&gt;&lt;/iframe&gt;&#xA;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
