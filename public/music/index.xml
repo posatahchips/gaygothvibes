@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music on gay goth vibes dot online</title>
-    <link>//localhost:1313/music/</link>
+    <link>gaygothvibes.online/music/</link>
     <description>Recent content in music on gay goth vibes dot online</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© satah</copyright>
-    <atom:link href="//localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="gaygothvibes.online/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>people you meet outside of bars</title>
-      <link>//localhost:1313/music/people-you-meet-outside-of-bars/</link>
+      <link>gaygothvibes.online/music/people-you-meet-outside-of-bars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/music/people-you-meet-outside-of-bars/</guid>
+      <guid>gaygothvibes.online/music/people-you-meet-outside-of-bars/</guid>
       <description>&lt;div style=&#34;text-align:center;&#34;&gt;&#xA;&lt;p&gt;🖤 &lt;a href=&#34;https://peopleyoumeetoutsideofbars.bandcamp.com/&#34;&gt;bandcamp&lt;/a&gt; 🖤 &lt;a href=&#34;https://www.youtube.com/pymoob&#34;&gt;youtube&lt;/a&gt; 🖤 &lt;a href=&#34;https://www.instagram.com/peopleyoumeetoutsideofbars/&#34;&gt;instagram&lt;/a&gt; 🖤&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h3 id=&#34;about&#34;&gt;about&lt;/h3&gt;&#xA;&lt;p&gt;i’ve called myself “acoustic goth broadway” because calling to my (probably pretty obvious) theatre kid roots feels like an honest take on my big expression of big feelings. i’ve also taken great joy in being called things like “apocalyptic bedroom pop”. when i begged a beloved friend to write me a biography for a festival, i got the answer that pymoob is “the tenderly spooky, uncannily tuneful, and radically honest musical project of satah cameron. their prolific output includes at least 16 eps and albums which take listeners by the hand and guide them through bedrooms, hospital rooms, and dive bar bathrooms, whispering poetry in their ears all the while.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>piloting the animal</title>
-      <link>//localhost:1313/music/piloting-the-animal/</link>
+      <link>gaygothvibes.online/music/piloting-the-animal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/music/piloting-the-animal/</guid>
-      <description>&lt;div style=&#34;text-align:center;&#34;&gt;&#xA;&lt;p&gt;ᴱˣᴾᴱᴿᴵᴹᴱᴺᵀᴬᴸ ᔆᴼᵁᴺᴰᔆ ⁺ ᴾᴼᴱᴹᔆ&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pilotingtheanimal.bandcamp.com/&#34;&gt;bandcamp&lt;/a&gt; 💣  &lt;a href=&#34;https://www.instagram.com/rottenwires/&#34;&gt;instagram&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/pta/HOLES.jpg#center&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe style=&#34;border: 0; width: 100%; height: 42px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/track=3661727302/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://pilotingtheanimal.bandcamp.com/track/holes&#34;&gt;[HOLES] by piloting the animal&lt;/a&gt;&lt;/iframe&gt;</description>
+      <guid>gaygothvibes.online/music/piloting-the-animal/</guid>
+      <description>&lt;div style=&#34;text-align:center;&#34;&gt;&#xA;&lt;p&gt;ᴱˣᴾᴱᴿᴵᴹᴱᴺᵀᴬᴸ ᔆᴼᵁᴺᴰᔆ ⁺ ᴾᴼᴱᴹᔆ&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pilotingtheanimal.bandcamp.com/&#34;&gt;bandcamp&lt;/a&gt; 💣  &lt;a href=&#34;https://www.instagram.com/rottenwires/&#34;&gt;instagram&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;img src=&#34;gaygothvibes.online/images/pta/HOLES.jpg#center&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe style=&#34;border: 0; width: 100%; height: 42px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/track=3661727302/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://pilotingtheanimal.bandcamp.com/track/holes&#34;&gt;[HOLES] by piloting the animal&lt;/a&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
